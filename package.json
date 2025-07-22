@@ -28,9 +28,15 @@
     "dependencies": {
         "@assemblyscript/loader": "^0.28.3",
         "@btc-vision/as-bignum": "^0.0.5",
+<<<<<<< HEAD
         "@btc-vision/btc-runtime": "^1.8.1",
         "@btc-vision/opnet-transform": "^0.1.8",
         "@eslint/js": "^9.31.0",
+=======
+        "@btc-vision/btc-runtime": "github:btc-vision/btc-runtime#a61c2ac7",
+        "@btc-vision/opnet-transform": "^0.1.5",
+        "@eslint/js": "^9.27.0",
+>>>>>>> origin/feat/new-op-20
         "gulplog": "^2.2.0",
         "ts-node": "^10.9.2",
         "typescript": "^5.8.3",
